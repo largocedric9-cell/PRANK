@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FREE WIFI</title>
+    <style>
+        body {
+            background: black;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+            padding-top: 50px;
+        }
+        h1 {
+            color: lime;
+        }
+        img {
+            width: 300px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 FREE WIFI CONNECTED!</h1>
+    <h2>Congratulations!</h2>
+
+    <img src="c:\Users\zed\Downloads\gorilla.png">
+
+    <p>HAHAHAHA! 🖕</p>
+</body>
+</html>
